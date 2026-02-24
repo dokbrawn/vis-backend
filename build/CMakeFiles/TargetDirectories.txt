@@ -1,0 +1,3 @@
+C:/Users/tanis/AndroidStudioProjects/visprog-backend/build/CMakeFiles/server.dir
+C:/Users/tanis/AndroidStudioProjects/visprog-backend/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tanis/AndroidStudioProjects/visprog-backend/build/CMakeFiles/ZERO_CHECK.dir
